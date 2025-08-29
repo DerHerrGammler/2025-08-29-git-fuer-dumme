@@ -1,0 +1,7 @@
+build/
+data/*
+
+.env
+
+
+!data/demo.txt
