@@ -4,6 +4,7 @@
 
 I bims 1 zu doof  
 I bims 2 zu doof  
+jetzt gibts stress
 
 I bims super doof  
 345  
