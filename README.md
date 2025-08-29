@@ -1,11 +1,11 @@
 # 2025-08-29-git-fuer-dumme
 
-I bims 1 zu doof
-I bims 2 zu doof
+123
 
-I bims super doof
+I bims 1 zu doof  
+I bims 2 zu doof  
 
-
+more changes
+epifjkdhd
 
 I bims ein Konflikt grrrr
-
